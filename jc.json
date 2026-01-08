@@ -976,8 +976,8 @@
       "ext": "eyJob3N0IjoiaHR0cDovLzEyMS42Mi4yMi4yMDQ6OTg3Ni8iLCJrZXkiOiJaalZsTW5SNE5UTjVhM0EyY3pKak9RPT0iLCJpdiI6IlpqVmxNblI0TlRONWEzQTJjekpqT1E9PSIsInR5cGVJZHMiOlsiMSIsIjIiLCIzIiwiNCJdLCJ0eXBlTmFtZXMiOlsi55S15b2xIiwi55S16KeG5YmnIiwi5Yqo5ryrIiwi57u86Im6Il19"
     },
     {
-      "key": "巴士",
-      "name": "🚌巴士|弹幕",
+      "key": "追追",
+      "name": "追追|弹幕",
       "type": 3,
       "api": "csp_Wcai",
       "ext": "https://zjuys.com/"
@@ -1043,8 +1043,8 @@
       "ext": "https://json02.heimuer.xyz/api.php/provide/vod/"
     },
     {
-      "key": "下饭",
-      "name": "🍙下饭|弹幕",
+      "key": "234XBPQ",
+      "name": "234|弹幕",
       "type": 3,
       "api": "csp_HBPQ",
       "ext": {
@@ -1062,8 +1062,8 @@
       }
     },
     {
-      "key": "比特",
-      "name": "🍄比特|弹幕",
+      "key": "短剧",
+      "name": "短剧|弹幕",
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/短剧网.json"
@@ -1104,8 +1104,8 @@
       "ext": "http://103.45.162.207:25252/仅供测试/lib/三九影视.json"
     },
     {
-      "key": "糯米",
-      "name": "🍓糯米|弹幕",
+      "key": "三四",
+      "name": "三四|弹幕",
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/三四影视.json"
