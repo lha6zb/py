@@ -976,8 +976,8 @@
       "ext": "eyJob3N0IjoiaHR0cDovLzEyMS42Mi4yMi4yMDQ6OTg3Ni8iLCJrZXkiOiJaalZsTW5SNE5UTjVhM0EyY3pKak9RPT0iLCJpdiI6IlpqVmxNblI0TlRONWEzQTJjekpqT1E9PSIsInR5cGVJZHMiOlsiMSIsIjIiLCIzIiwiNCJdLCJ0eXBlTmFtZXMiOlsi55S15b2xIiwi55S16KeG5YmnIiwi5Yqo5ryrIiwi57u86Im6Il19"
     },
     {
-      "key": "追追",
-      "name": "追追|弹幕",
+      "key": "巴士",
+      "name": "🚌巴士|弹幕",
       "type": 3,
       "api": "csp_Wcai",
       "ext": "https://zjuys.com/"
@@ -2039,6 +2039,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
