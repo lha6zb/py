@@ -908,13 +908,6 @@
       "ext": "DyoqWQInJUMuGFdINDU2AQMoEEAuDFdLDRtJAwMGWR8DJjhENFAqWC0CLgYDOQIADA82Ey0CJgMAMldLCzFBAQIoAwAGKQYB"
     },
     {
-      "key": "爱影",
-      "name": "👀爱影|弹幕",
-      "type": 3,
-      "api": "csp_HBv1Class",
-      "ext": "https://ayssftv.oss-cn-chengdu.aliyuncs.com/api.txt"
-    },
-    {
       "key": "火火",
       "name": "🔥火火|弹幕",
       "type": 3,
@@ -935,35 +928,15 @@
       "ext": "https://123ysw.com"
     },
     {
-      "key": "演员",
-      "name": "演员|弹幕",
+      "key": "aikan",
+      "name": "👓眼镜|弹幕",
       "type": 3,
       "api": "csp_HBmoou",
       "ext": "DyoqWQInJUMuGFcDDFApHDsCPgUGUyhENBtNAzgWUEg="
     },
     {
-      "key": "橘子",
-      "name": "橘子|弹幕",
-      "type": 3,
-      "api": "csp_HBmoou",
-      "ext": "DyoqWQInJUMuGFdZDwwuXwA8XUUAUi9HJxs1AwAnOkUBKSMHIhtBXQABPkMDMlsBDFE5HygWJR9XEANoWwNKOCgWJR8sIlpIIgg5AygWJUc7NT8FIw89WiwoIUEvJjhdNA81XCgWJR87GwUEIDYfEC8CLQ84NQkDNA8uAjsuVUg="
-    },
-    {
-      "key": "趣看",
-      "name": "趣看|弹幕",
-      "type": 3,
-      "api": "csp_HBmoou",
-      "ext": "DyoqWQInJUMuGFcCClEbHAI3Pg0GNhpZDAtNAzgWUEg="
-    },
-    {
-      "key": "HBqwKan",
-      "name": "全网|弹幕",
-      "type": 3,
-      "api": "csp_HBqwKan"
-    },
-    {
       "key": "csp_HBhcShun",
-      "name": "蝴蝶|弹幕",
+      "name": "🍄蘑菇|弹幕",
       "type": 3,
       "api": "csp_HBhcShun"
     },
@@ -973,25 +946,6 @@
       "type": 3,
       "api": "csp_Xb6v",
       "ext": "0"
-    },
-    {
-      "key": "低端",
-      "name": "美剧|低端",
-      "type": 3,
-      "api": "csp_HBdiDuan"
-    },
-    {
-      "key": "旺旺",
-      "name": "🏔️旺旺|弹幕",
-      "type": 3,
-      "api": "csp_HBwwgg"
-    },
-    {
-      "key": "酷浪",
-      "name": "酷浪|弹幕",
-      "type": 3,
-      "api": "csp_HBtiantian",
-      "ext": "http://v.lkuys.cn/"
     },
     {
       "key": "4Kav",
@@ -2085,3 +2039,4 @@
     "vip.ffzyad.com"
   ]
 }
+
