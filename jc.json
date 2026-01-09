@@ -1,7 +1,6 @@
 {
-  "spider": "https://gitee.com/worry-free-889/yydsys.top/raw/duo/custom_spider.jar;md5;0ad98e896e3b42811be3e63a3b6a68cb",
-  "wallpaper": "https://gitee.com/worry-free-889/ay/raw/ye/bg.php",
-  "logo": "https://gitee.com/worry-free-889/ay/blob/ye/new166e26b264dff8e9.gif",
+  "spider": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;0c01e2453b74bbb9e1e827faa1c0ff58",
+  "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
   "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
   "lives": [
     {
@@ -1914,6 +1913,7 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
 
