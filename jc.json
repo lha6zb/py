@@ -13,11 +13,11 @@
   ],
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "👇👲老孩🔹影视.仅自用测试,禁传播贩卖💑",
-      "type": 3,
-      "api": "csp_Douban",
-      "ext": "https://gitee.com/worry-free-889/yydsys.top/raw/duo/lib/douban.json"
+      "key": "豆瓣",
+            "name": "🌈豆瓣┃反馈QQ群:665981772 公众号：叨观荐影 接口只兼容OK影视或者影视",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
     },
     {
       "key": "新浪影视",
@@ -1914,5 +1914,6 @@
     "vip.ffzyad.com"
   ]
 }
+
 
 
