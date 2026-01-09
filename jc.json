@@ -102,19 +102,6 @@
       "api": "csp_HBPguo"
     },
     {
-      "key": "多多影音",
-      "name": "👲多多🔹影音",
-      "type": 3,
-      "api": "csp_Ddyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": {
-        "site": "https://tv.yydsys.top,https://tv.yydsys.cc,https://tv.214521.xyz"
-      }
-    },
-    {
       "key": "nangua",
       "name": "🎃南瓜🔹秒播",
       "type": 3,
@@ -336,7 +323,7 @@
     },
     {
       "key": "中田影院",
-      "name": "☀中田🔹秒播",
+      "name": "☀中田4K🔹秒播",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -865,7 +852,7 @@
     },
     {
       "key": "mangmang",
-      "name": "🏝茫茫|自定",
+      "name": "🏝茫茫|影视",
       "type": 3,
       "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/茫茫.js"
@@ -913,7 +900,7 @@
     },
     {
       "key": "4Kav",
-      "name": "🎬4Kav|弹幕",
+      "name": "📺4Kav|弹幕",
       "type": 3,
       "api": "csp_HB4kav",
       "playerType": 2
@@ -979,7 +966,7 @@
     },
     {
       "key": "短剧",
-      "name": "短剧|弹幕",
+      "name": "💮短剧|弹幕",
       "type": 3,
       "api": "csp_HBPQ",
       "ext": "http://103.45.162.207:25252/仅供测试/lib/短剧网.json"
@@ -1048,7 +1035,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "玩偶|4k网盘",
+      "name": "👽玩偶|4k网盘",
       "type": 3,
       "playerType": 2,
       "api": "csp_Wogg",
@@ -1058,7 +1045,7 @@
     },
     {
       "key": "P123",
-      "name": "木偶|4k网盘",
+      "name": "👻木偶|4k网盘",
       "type": 3,
       "playerType": 2,
       "api": "csp_Mogg",
@@ -1068,7 +1055,7 @@
     },
     {
       "key": "至臻",
-      "name": "至臻|4k网盘",
+      "name": "💌至臻|4k网盘",
       "type": 3,
       "playerType": 2,
       "api": "csp_Mogg",
@@ -1108,7 +1095,7 @@
     },
     {
       "key": "二小",
-      "name": "二小|4k网盘",
+      "name": "👨二小|4k网盘",
       "type": 3,
       "playerType": 2,
       "api": "csp_Mogg",
@@ -1927,4 +1914,5 @@
     "vip.ffzyad.com"
   ]
 }
+
 
