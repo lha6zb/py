@@ -1,4 +1,7 @@
-﻿黑龙江地方,#genre#
+智多星祝您新年快乐万事如意马年发大财,#genre#
+智多星祝您发财,https://d.kstore.dev/download/16817/%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2.mp4
+
+黑龙江地方,#genre#
 黑龙江卫视,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://39.135.133.173:80/wh7f454c46tw658731441_1360817342/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江都市标清,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
@@ -488,4 +491,5 @@ CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8?jsbt=1767051701&jsbk=c2c01b2f4dc
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4 
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8 
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
+
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
