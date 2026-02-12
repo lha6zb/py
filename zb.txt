@@ -1,6 +1,10 @@
-最新更新贺新年,#genre#
-智多星☞祝您发财,https://d.kstore.dev/download/16817/%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2.mp4
-恭喜发财,https://codeberg.org/epg/dy2/raw/branch/main/gq/恭喜发财.mp4
+🍥特别提示🍥,#genre#
+请选择对应的线路观看☞避免卡顿,https://codeberg.org/epg/dy2/raw/branch/main/gq/%E5%90%89%E7%B1%B3%E6%9D%A5%E5%90%A7.mp4
+
+
+更新贺新年,#genre#
+贺新年歌曲加载大约10秒左右请耐心等待,https://d.kstore.dev/download/16817/%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2.mp4
+智多星☞祝您马年发大财,https://codeberg.org/epg/dy2/raw/branch/main/gq/恭喜发财.mp4
 过年啦,https://codeberg.org/epg/dy2/raw/branch/main/gq/过年啦.mp4
 恭喜恭喜,https://codeberg.org/epg/dy2/raw/branch/main/gq/恭喜恭喜.mp4
 齐唱幸福年,https://codeberg.org/epg/dy2/raw/branch/main/gq/齐唱幸福年.mp4
@@ -501,6 +505,7 @@ CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8?jsbt=1767051701&jsbk=c2c01b2f4dc
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
 
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
+
 
 
 
