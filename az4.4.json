@@ -189,6 +189,27 @@
       "api": "csp_Xlys",
       "ext": "https://xl01.com.de"
     },
+     {
+      "key": "py_maple",
+      "name": "枫叶[py]",
+      "type": 3,
+      "api": "./py/maple.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "sitesIndex": 0
+      }
+    },
+    {
+      "key": "py_duoduo",
+      "name": "多多影视[py]",
+      "type": 3,
+      "api": "./py/duoduo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "天天",
       "name": "👲老孩┃极速",
