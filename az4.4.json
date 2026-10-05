@@ -745,7 +745,7 @@
       "name": "全网看",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./js/s/全网看.json"
+      "ext": "./js/全网看.json"
     },
        {
       "key": "MDrive",
