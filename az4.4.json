@@ -716,7 +716,7 @@
       "api": "./js/一哥.js"
     },
     {
-      "key": "py_guazi",
+      "key": "pgy_guazi",
       "name": "瓜子[py]",
       "type": 3,
       "api": "./py/guazi.py",
