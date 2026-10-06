@@ -623,24 +623,6 @@
       ]
     },
     {
-      "key": "XBPQ_黑狐",
-      "name": "🦝黑狐┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://gh-proxy.org/https://github.com/lha6zb/py/blob/em/JS/黑狐影视.json"
-    },
-    {
-      "key": "XBPQ_榜—",
-      "name": "🎞️榜—┃短剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "免费在线短剧大全爽文短剧抖剧快剧为您剧情介绍+vod_content\">&&</div>",
-        "分类url": "https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39"
-      }
-    },
-    {
       "key": "cjzy_极速",
       "name": "🎐极速┃带草",
       "type": 1,
@@ -702,27 +684,6 @@
         "纪录片",
         "动漫电影"
       ]
-    },
-    {
-      "key": "小镇影视",
-      "name": "🌋小镇｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/XZYS.json"
-    },
-    {
-      "key": "面包影视",
-      "name": "🦌羊羊｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/MBYS.json"
-    },
-    {
-      "key": "永乐影视",
-      "name": "🎁永乐｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/YLYS.json"
     },
     {
       "key": "py_高清电影",
@@ -1082,76 +1043,6 @@
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "云播影视",
-      "name": "☁️云播｜影视",
-      "type": 3,
-      "api": "csp_Tvyb",
-      "ext": "http://www.viptv05.com"
-    },
-    {
-      "key": "1905",
-      "name": "🐟1905｜影视",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "修罗",
-      "name": "🏔️修罗｜磁力",
-      "api": "csp_Xlys",
-      "type": 3,
-      "ext": "https://xl01.com.de"
-    },
-    {
-      "key": "雪花",
-      "name": "😎雪花｜磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.org/https://github.com/lha6zb/py/blob/em/JS/XH.json"
-    },
-    {
-      "key": "csp_FeiMaoUC",
-      "name": "⚡┃闪电┃优汐",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://shandian.blog/",
-          "https://sd.sduc.site"
-        ],
-        "url_key": "FeiMaoUC"
-      }
-    },
-    {
-      "key": "csp_Netfixtv",
-      "name": "💌至臻┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "http://xiaomi666.fun",
-          "https://zhizhen1.top",
-          "https://mihdr.top",
-          "https://www.mihdr.top",
-          "http://www.miqk.cc",
-          "https://www.zhizhenpan.fun"
-        ],
-        "url_key": "Netfixtv2",
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        }
-      }
     },
     {
       "key": "咕咕",
