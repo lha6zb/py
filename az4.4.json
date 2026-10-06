@@ -969,25 +969,6 @@
       "jar": "https://tv.菜妮丝.top/jar/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
-      "key": "csp_Wwys",
-      "name": "🌾️农民┃影视",
-      "type": 3,
-      "api": "csp_Wwys",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "ext": "https://vip.wwgz.cn:5200",
-      "jar": "./feimao1004.jar"
-    },
-    {
-      "key": "csp_SaoHuo",
-      "name": "🔥火火┃影视",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "playerType": 2,
-      "ext": "https://shdy5.us"
-    },
-    {
       "key": "360影视",
       "name": "360┃解析",
       "type": 3,
