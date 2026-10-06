@@ -371,7 +371,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "http://v.rbotv.cn",
-      "jar": "./feimao1004.jar"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "干饭",
@@ -382,7 +382,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "https://www.douy32mf.top|1234567887654321",
-      "jar": "./feimao1004.jar"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "光盘",
@@ -390,7 +390,7 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "http://103.217.190.91:5566|hagYExMdMkeWfemK",
-      "jar": "./feimao1004.jar"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "一碗",
@@ -423,7 +423,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "https://y2s52n7.com",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "csp_Wwys",
