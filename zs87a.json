@@ -371,7 +371,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "http://v.rbotv.cn",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "干饭",
@@ -382,7 +382,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "https://www.douy32mf.top|1234567887654321",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "光盘",
@@ -390,7 +390,7 @@
       "type": 3,
       "api": "csp_AppQi",
       "ext": "http://103.217.190.91:5566|hagYExMdMkeWfemK",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "一碗",
@@ -401,7 +401,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "蔬菜",
@@ -412,7 +412,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "csp_Jpys",
@@ -434,7 +434,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "https://vip.wwgz.cn:5200",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "csp_SaoHuo",
@@ -445,7 +445,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "ext": "https://shdy5.us",
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "csp_Gz360",
@@ -455,7 +455,7 @@
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
-      "jar": "./lib/feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
+      "jar": "./feimao1004.jar;md5;46da6b6a6a111d7924717db2ae790de3"
     },
     {
       "key": "360影视",
