@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "👇👲老孩🔹影视.仅自用测试,禁传播贩卖",
+      "name": "👲老孩🔹影视.仅自用测试,禁传播贩卖",
       "type": 3,
       "api": "csp_DouDouGuard",
       "searchable": 0,
@@ -13,16 +13,19 @@
       "quickSearch": 0
     },
     {
-      "key": "配置中心",
-      "name": "网盘🌟配置",
+      "key": "MDrive",
+      "name": "我的云盘┃配置",
       "type": 3,
-      "api": "csp_Config",
+      "api": "csp_MyDriveGuard",
       "searchable": 0,
       "changeable": 0,
+      "quickSearch": 0,
       "indexs": 0,
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+        "type": "oval"
+      },
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
     },
     {
@@ -721,22 +724,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./js/全网看.json"
-    },
-       {
-      "key": "MDrive",
-      "name": "我的云盘┃配置",
-      "type": 3,
-      "api": "csp_MyDriveGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "quickSearch": 0,
-      "indexs": 0,
-      "style": {
-        "type": "oval"
-      },
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
     },
     {
       "key": "荐片2",
