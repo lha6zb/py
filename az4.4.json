@@ -1295,6 +1295,15 @@
       "changeable": 0
     }
   ],
+  "lives": [
+    {
+      "name": "逍遥直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://gitee.com/xiaoyao-kds/ek/raw/master/abe.txt",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    }
+  ],
   "parses": [
     {
       "name": "解析聚合",
