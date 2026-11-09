@@ -79,7 +79,6 @@
 CCTV1HD,http://39.134.65.198/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1HD,http://39.134.66.34:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1HD,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2HD,http://218.60.173.135/pull-flv-f1.douyincdn.com/media/stream-694930354981831340_hd.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2025121713194375BBFF0C5DD812984B92-1KgIxB&unique_id=stream-694930354981831340_684_flv_hd&wsSecret=91b7baca459b0fcacb729270c5885795&wsTime=69423d6f&wsiphost=ipdbme&wsrid_tag=6944a9ec_PS-000-01B0m91_1307-7618-s1t1766107628823&wsmp_tag=1&ip_type=2&wsdcr_tag=0&request_id=6944a9ec_PS-000-01B0m91_1307-7618-s1t1766107628823&redirect_cnt=0&wshc=C&requery=0
 CCTV2HD,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2HD,http://39.134.65.150/PLTV/88888888/224/3221225599/1.m3u8
 CCTV3HD,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -491,7 +490,6 @@ CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8?jsbt=1767051701&jsbk=c2c01b2f4dc
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4 
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8 
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8 
-
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
 
